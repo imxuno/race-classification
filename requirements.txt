@@ -1,0 +1,9 @@
+opencv-python
+numpy
+torch
+torchvision
+pandas
+tqdm
+insightface
+matplotlib
+onnxruntime-gpu
